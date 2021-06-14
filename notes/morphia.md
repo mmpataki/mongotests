@@ -365,6 +365,11 @@ Morphia is a object to document (and vice versa) conversion library used by appl
 2. Reusing query objects.
     - If you use same query object to check the documents after an update operation, you will see cached (un-updated) results. Need to check if its a bug in `morphia`
 
+## Complete code
+1. Complete code is available [here](https://github.com/mmpataki/mongotests/blob/main/mytests)
+
+2. Import to an IDE and run the class `edc/mongo/morphia/demo/MorphiaDemo.java`
+
 
 ## References
 
